@@ -1,0 +1,28 @@
+name: Hurricane Public Relations
+favicon: null
+layout_spectrum: 0.9103425401262939
+typography_spectrum: 0.657291459152475
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8700981487054378
+  lightness: 0.276991942897439
+  saturation: 0.4531714045442641
+  rhythmicContrast: 0.8668286157771945
+purpose: []
